@@ -46,7 +46,7 @@ In Furniture we have mainly four sub-categories -
 3 Bookcases 
 4 Furnishings
 
-In Office supplies we have mainly four sub-categories
+In Office supplies we have mainly nine sub-categories
 
 1 Paper
 2 Art
